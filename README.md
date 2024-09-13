@@ -1,1 +1,2 @@
 # interaction-description-tool
+The goal of this tool is to describe interactions between objects within images.  It is initially being built for the use in Weed Detection and Interaction Descriptions within a Mine-Site Rehabilitation context but the goal is to generalise it out to any type of application.  

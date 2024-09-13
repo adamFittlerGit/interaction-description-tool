@@ -1,0 +1,6 @@
+path: ./sample_data
+train: images/train
+test: images/test
+
+nc: 4
+names: ['living', 'semi_bleach', 'bleach', 'fish']
